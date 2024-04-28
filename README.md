@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack project<br>👯 I’m looking to collaborate on open source contribution and hackathons<br>🤝 I’m looking for help with frontend<br>🌱 I’m currently learning backend<br>💬 Ask me about anything
+🔭 I’m currently working on Full stack project<br>👯 I’m looking to collaborate on open source contribution and hackathons<br>🌱 I’m currently learning backend<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
